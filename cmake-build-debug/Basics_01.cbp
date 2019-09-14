@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Basics_01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Basics_01">
+				<Option output="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Basics_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 Basics_01"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Basics_01/fast">
+				<Option output="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Basics_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 Basics_01/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_00/Task_00.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_00/Task_00.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_01/Task_01.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_01/Task_01.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_02/Task_02.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_02/Task_02.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_03/Task_03.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_03/Task_03.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_04/Task_04.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_04/Task_04.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_05/Task_05.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_05/Task_05.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_06/Task_06.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_06/Task_06.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_07/Task_07.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_07/Task_07.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_08/Task_08.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/Task_08/Task_08.h">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/main.c">
+			<Option target="Basics_01"/>
+		</Unit>
+		<Unit filename="C:/PRG/FOM/ProzProg/CLion/Basics_01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

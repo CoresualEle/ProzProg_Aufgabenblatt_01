@@ -1,0 +1,3 @@
+C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/CMakeFiles/Basics_01.dir
+C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PRG/FOM/ProzProg/CLion/Basics_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
